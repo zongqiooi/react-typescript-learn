@@ -12,4 +12,4 @@ const product = {
   price: 2.99,
   images: ["image-1.png", "image-2.png"],
   status: "published",
-};
+} as Product;
